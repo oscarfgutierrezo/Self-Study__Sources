@@ -9,15 +9,17 @@ Page | Repository
 [Product](https://oscarfgutierrezo.github.io/Product-Example/) | [URL](https://github.com/oscarfgutierrezo/Product-Example)
 
 ### 2. Bootstrap
-+ [Headers](https://github.com/oscarfgutierrezo/Headers-Example)
-+ [Heroes](https://github.com/oscarfgutierrezo/Heroes-Example)
-+ [Features](https://github.com/oscarfgutierrezo/Feature-Example)
-+ [Sidebars](https://github.com/oscarfgutierrezo/Sidebars-Example)
-+ [Footers](https://github.com/oscarfgutierrezo/Footers-Example)
-+ [Dropdowns](https://github.com/oscarfgutierrezo/Dropdowns-Example)
-+ [ListGroups](https://github.com/oscarfgutierrezo/List-groups-Example)
-+ [Modals](https://github.com/oscarfgutierrezo/Modals-Example)
-+ [Trafalgar](https://github.com/oscarfgutierrezo/Trafalgar-Example)
+Page | Repository
+--- | ---
+[Headers](https://oscarfgutierrezo.github.io/Headers-Example/) | [URL](https://github.com/oscarfgutierrezo/Headers-Example)
+[Heroes](https://oscarfgutierrezo.github.io/Heroes-Example/) | [URL](https://github.com/oscarfgutierrezo/Heroes-Example)
+[Features](https://oscarfgutierrezo.github.io/Feature-Example/) | [URL](https://github.com/oscarfgutierrezo/Feature-Example)
+[Sidebars](https://oscarfgutierrezo.github.io/Sidebars-Example/) | [URL](https://github.com/oscarfgutierrezo/Sidebars-Example)
+[Footers](https://oscarfgutierrezo.github.io/Footers-Example/) | [URL](https://github.com/oscarfgutierrezo/Footers-Example)
+[Dropdowns](https://oscarfgutierrezo.github.io/Dropdowns-Example/) | [URL](https://github.com/oscarfgutierrezo/Dropdowns-Example)
+[ListGroups](https://oscarfgutierrezo.github.io/List-groups-Example/) | [URL](https://github.com/oscarfgutierrezo/List-groups-Example)
+[Modals](https://oscarfgutierrezo.github.io/Modals-Example/) | [URL](https://github.com/oscarfgutierrezo/Modals-Example)
+[Trafalgar](https://oscarfgutierrezo.github.io/Trafalgar-Example/) | [URL](https://github.com/oscarfgutierrezo/Trafalgar-Example)
 
 ### 3. Tailwind
 + [Components](https://github.com/oscarfgutierrezo/Components-Example)

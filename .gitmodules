@@ -7,3 +7,30 @@
 [submodule "Product-Example"]
 	path = Product-Example
 	url = https://github.com/oscarfgutierrezo/Product-Example
+[submodule "Headers-Example"]
+	path = Headers-Example
+	url = https://github.com/oscarfgutierrezo/Headers-Example
+[submodule "Heroes-Example"]
+	path = Heroes-Example
+	url = https://github.com/oscarfgutierrezo/Heroes-Example
+[submodule "Feature-Example"]
+	path = Feature-Example
+	url = https://github.com/oscarfgutierrezo/Feature-Example
+[submodule "Sidebars-Example"]
+	path = Sidebars-Example
+	url = https://github.com/oscarfgutierrezo/Sidebars-Example
+[submodule "Footers-Example"]
+	path = Footers-Example
+	url = https://github.com/oscarfgutierrezo/Footers-Example
+[submodule "Dropdowns-Example"]
+	path = Dropdowns-Example
+	url = https://github.com/oscarfgutierrezo/Dropdowns-Example
+[submodule "List-groups-Example"]
+	path = List-groups-Example
+	url = https://github.com/oscarfgutierrezo/List-groups-Example
+[submodule "Modals-Example"]
+	path = Modals-Example
+	url = https://github.com/oscarfgutierrezo/Modals-Example
+[submodule "Trafalgar-Example"]
+	path = Trafalgar-Example
+	url = https://github.com/oscarfgutierrezo/Trafalgar-Example
