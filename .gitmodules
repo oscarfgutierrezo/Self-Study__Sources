@@ -1,0 +1,9 @@
+[submodule "Checkout-Example"]
+	path = Checkout-Example
+	url = https://github.com/oscarfgutierrezo/Checkout-Example
+[submodule "Pricing-Example"]
+	path = Pricing-Example
+	url = https://github.com/oscarfgutierrezo/Pricing-Example
+[submodule "Product-Example"]
+	path = Product-Example
+	url = https://github.com/oscarfgutierrezo/Product-Example
