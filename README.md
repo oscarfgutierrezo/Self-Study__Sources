@@ -39,23 +39,14 @@ Page | Repository
 [Pages](https://oscarfgutierrezo.github.io/Pages-Example/) | [URL](https://github.com/oscarfgutierrezo/Pages-Example)
 [LaslesVPN](https://oscarfgutierrezo.github.io/LaslesVPN-Example/) | [URL](https://github.com/oscarfgutierrezo/LaslesVPN-Example)
 
-
-
-
-
-+ [Showcase](https://github.com/oscarfgutierrezo/Showcase-Example)
-+ [Team](https://github.com/oscarfgutierrezo/Team-Example)
-+ [Pricing Tables](https://github.com/oscarfgutierrezo/Pricing-Tables-Example)
-+ [Pages](https://github.com/oscarfgutierrezo/Pages-Example)
-+ [LaslesVPN](https://github.com/oscarfgutierrezo/LaslesVPN-Example)
-
 ### 4. JS
-+ [Shopping Cart](https://github.com/oscarfgutierrezo/ShoppingCart-Example)
-+ [Budget Planner](https://github.com/oscarfgutierrezo/BudgetPlanner)
-+ [PetCare](https://github.com/oscarfgutierrezo/PetCare-Example)
-+ [Pixabay API](https://github.com/oscarfgutierrezo/PixabayAPI-Example)
-+ [CryptoCompare API](https://github.com/oscarfgutierrezo/CryptoCompareAPI-Example)
-
+Page | Repository
+--- | ---
+[Shopping Cart](https://oscarfgutierrezo.github.io/ShoppingCart-Example/) | [URL](https://github.com/oscarfgutierrezo/ShoppingCart-Example)
+[Budget Planner](https://oscarfgutierrezo.github.io/BudgetPlanner/) | [URL](https://github.com/oscarfgutierrezo/BudgetPlanner)
+[PetCare](https://oscarfgutierrezo.github.io/PetCare-Example/) | [URL](https://github.com/oscarfgutierrezo/PetCare-Example)
+[Pixabay API](https://oscarfgutierrezo.github.io/PixabayAPI-Example/) | [URL](https://github.com/oscarfgutierrezo/PixabayAPI-Example)
+[CryptoCompare API](https://oscarfgutierrezo.github.io/CryptoCompareAPI-Example) | [URL](https://github.com/oscarfgutierrezo/CryptoCompareAPI-Example)
 
 
 

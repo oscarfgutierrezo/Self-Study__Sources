@@ -82,3 +82,18 @@
 [submodule "LaslesVPN-Example"]
 	path = LaslesVPN-Example
 	url = https://github.com/oscarfgutierrezo/LaslesVPN-Example
+[submodule "ShoppingCart-Example"]
+	path = ShoppingCart-Example
+	url = https://github.com/oscarfgutierrezo/ShoppingCart-Example
+[submodule "BudgetPlanner"]
+	path = BudgetPlanner
+	url = https://github.com/oscarfgutierrezo/BudgetPlanner
+[submodule "PetCare-Example"]
+	path = PetCare-Example
+	url = https://github.com/oscarfgutierrezo/PetCare-Example
+[submodule "PixabayAPI-Example"]
+	path = PixabayAPI-Example
+	url = https://github.com/oscarfgutierrezo/PixabayAPI-Example
+[submodule "CryptoCompareAPI-Example"]
+	path = CryptoCompareAPI-Example
+	url = https://github.com/oscarfgutierrezo/CryptoCompareAPI-Example
