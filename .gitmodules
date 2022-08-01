@@ -34,3 +34,51 @@
 [submodule "Trafalgar-Example"]
 	path = Trafalgar-Example
 	url = https://github.com/oscarfgutierrezo/Trafalgar-Example
+[submodule "Components-Example"]
+	path = Components-Example
+	url = https://github.com/oscarfgutierrezo/Components-Example
+[submodule "Navigation-Example"]
+	path = Navigation-Example
+	url = https://github.com/oscarfgutierrezo/Navigation-Example
+[submodule "Hero-Example"]
+	path = Hero-Example
+	url = https://github.com/oscarfgutierrezo/Hero-Example
+[submodule "Content-Example"]
+	path = Content-Example
+	url = https://github.com/oscarfgutierrezo/Content-Example
+[submodule "Feature-Example-02"]
+	path = Feature-Example-02
+	url = https://github.com/oscarfgutierrezo/Feature-Example-02
+[submodule "Forms-Example"]
+	path = Forms-Example
+	url = https://github.com/oscarfgutierrezo/Forms-Example
+[submodule "Call-to-action-Example"]
+	path = Call-to-action-Example
+	url = https://github.com/oscarfgutierrezo/Call-to-action-Example
+[submodule "Contacts-Example"]
+	path = Contacts-Example
+	url = https://github.com/oscarfgutierrezo/Contacts-Example
+[submodule "Footers-02-Example"]
+	path = Footers-02-Example
+	url = https://github.com/oscarfgutierrezo/Footers-02-Example
+[submodule "Testimonials-Example"]
+	path = Testimonials-Example
+	url = https://github.com/oscarfgutierrezo/Testimonials-Example
+[submodule "Ecommerce-Example"]
+	path = Ecommerce-Example
+	url = https://github.com/oscarfgutierrezo/Ecommerce-Example
+[submodule "Showcase-Example"]
+	path = Showcase-Example
+	url = https://github.com/oscarfgutierrezo/Showcase-Example
+[submodule "Team-Example"]
+	path = Team-Example
+	url = https://github.com/oscarfgutierrezo/Team-Example
+[submodule "Pricing-Tables-Example"]
+	path = Pricing-Tables-Example
+	url = https://github.com/oscarfgutierrezo/Pricing-Tables-Example
+[submodule "Pages-Example"]
+	path = Pages-Example
+	url = https://github.com/oscarfgutierrezo/Pages-Example
+[submodule "LaslesVPN-Example"]
+	path = LaslesVPN-Example
+	url = https://github.com/oscarfgutierrezo/LaslesVPN-Example

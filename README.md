@@ -22,17 +22,27 @@ Page | Repository
 [Trafalgar](https://oscarfgutierrezo.github.io/Trafalgar-Example/) | [URL](https://github.com/oscarfgutierrezo/Trafalgar-Example)
 
 ### 3. Tailwind
-+ [Components](https://github.com/oscarfgutierrezo/Components-Example)
-+ [Navigation](https://github.com/oscarfgutierrezo/Navigation-Example)
-+ [Hero](https://github.com/oscarfgutierrezo/Hero-Example)
-+ [Content](https://github.com/oscarfgutierrezo/Content-Example)
-+ [Features](https://github.com/oscarfgutierrezo/Feature-Example-02)
-+ [Forms](https://github.com/oscarfgutierrezo/Forms-Example)
-+ [Call to action](https://github.com/oscarfgutierrezo/Call-to-action-Example)
-+ [Contacts](https://github.com/oscarfgutierrezo/Contacts-Example)
-+ [Footers](https://github.com/oscarfgutierrezo/Footers-02-Example)
-+ [Testimonials](https://github.com/oscarfgutierrezo/Testimonials-Example)
-+ [Ecommerce](https://github.com/oscarfgutierrezo/Ecommerce-Example)
+Page | Repository
+--- | ---
+[Components](https://oscarfgutierrezo.github.io/Components-Example/) | [URL](https://github.com/oscarfgutierrezo/Components-Example)
+[Navigation](https://oscarfgutierrezo.github.io/Navigation-Example/) | [URL](https://github.com/oscarfgutierrezo/Navigation-Example)
+[Heroes](https://oscarfgutierrezo.github.io/Hero-Example/) | [URL](https://github.com/oscarfgutierrezo/Hero-Example)
+[Contents](https://oscarfgutierrezo.github.io/Content-Example/) | [URL](https://github.com/oscarfgutierrezo/Content-Example)
+[Features](https://oscarfgutierrezo.github.io/Feature-Example-02/) | [URL](https://github.com/oscarfgutierrezo/Feature-Example-02)
+[Call to action](https://oscarfgutierrezo.github.io/Call-to-action-Example/) | [URL](https://github.com/oscarfgutierrezo/Call-to-action-Example)
+[Contacts](https://oscarfgutierrezo.github.io/Contacts-Example/) | [URL](https://github.com/oscarfgutierrezo/Contacts-Example)
+[Footers](https://oscarfgutierrezo.github.io/Footers-02-Example/) | [URL](https://github.com/oscarfgutierrezo/Footers-02-Example)
+[Ecommerce](https://oscarfgutierrezo.github.io/Ecommerce-Example/) | [URL](https://github.com/oscarfgutierrezo/Ecommerce-Example)
+[Showcase](https://oscarfgutierrezo.github.io/Showcase-Example/) | [URL](https://github.com/oscarfgutierrezo/Showcase-Example)
+[Team](https://oscarfgutierrezo.github.io/Team-Example/) | [URL](https://github.com/oscarfgutierrezo/Team-Example)
+[Pricing Tables](https://oscarfgutierrezo.github.io/Pricing-Tables-Example/) | [URL](https://github.com/oscarfgutierrezo/Pricing-Tables-Example)
+[Pages](https://oscarfgutierrezo.github.io/Pages-Example/) | [URL](https://github.com/oscarfgutierrezo/Pages-Example)
+[LaslesVPN](https://oscarfgutierrezo.github.io/LaslesVPN-Example/) | [URL](https://github.com/oscarfgutierrezo/LaslesVPN-Example)
+
+
+
+
+
 + [Showcase](https://github.com/oscarfgutierrezo/Showcase-Example)
 + [Team](https://github.com/oscarfgutierrezo/Team-Example)
 + [Pricing Tables](https://github.com/oscarfgutierrezo/Pricing-Tables-Example)
