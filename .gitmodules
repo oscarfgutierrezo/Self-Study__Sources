@@ -97,3 +97,6 @@
 [submodule "CryptoCompareAPI-Example"]
 	path = CryptoCompareAPI-Example
 	url = https://github.com/oscarfgutierrezo/CryptoCompareAPI-Example
+[submodule "GiphyAPI-Example"]
+	path = GiphyAPI-Example
+	url = https://github.com/oscarfgutierrezo/GiphyAPI-Example
