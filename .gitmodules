@@ -100,3 +100,6 @@
 [submodule "GiphyAPI-Example"]
 	path = GiphyAPI-Example
 	url = https://github.com/oscarfgutierrezo/GiphyAPI-Example
+[submodule "TodoApp-Example"]
+	path = TodoApp-Example
+	url = https://github.com/oscarfgutierrezo/TodoApp-Example
