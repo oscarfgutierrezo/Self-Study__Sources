@@ -106,3 +106,6 @@
 [submodule "Hazard-Example"]
 	path = Hazard-Example
 	url = https://github.com/oscarfgutierrezo/Hazard-Example
+[submodule "RockPaperScissors"]
+	path = RockPaperScissors
+	url = https://github.com/oscarfgutierrezo/RockPaperScissors

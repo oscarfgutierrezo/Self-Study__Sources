@@ -47,6 +47,7 @@ Page | Repository
 [PetCare](https://oscarfgutierrezo.github.io/PetCare-Example/) | [URL](https://github.com/oscarfgutierrezo/PetCare-Example)
 [Pixabay API](https://oscarfgutierrezo.github.io/PixabayAPI-Example/) | [URL](https://github.com/oscarfgutierrezo/PixabayAPI-Example)
 [CryptoCompare API](https://oscarfgutierrezo.github.io/CryptoCompareAPI-Example) | [URL](https://github.com/oscarfgutierrezo/CryptoCompareAPI-Example)
+[Rock, paper & scissors](https://oscarfgutierrezo.github.io/RockPaperScissors/) | [URL](https://github.com/oscarfgutierrezo/RockPaperScissors)
 
 ### 5. React
 Page | Repository
