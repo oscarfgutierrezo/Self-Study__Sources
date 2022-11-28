@@ -103,3 +103,6 @@
 [submodule "TodoApp-Example"]
 	path = TodoApp-Example
 	url = https://github.com/oscarfgutierrezo/TodoApp-Example
+[submodule "Hazard-Example"]
+	path = Hazard-Example
+	url = https://github.com/oscarfgutierrezo/Hazard-Example

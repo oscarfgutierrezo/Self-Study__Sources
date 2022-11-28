@@ -53,6 +53,7 @@ Page | Repository
 --- | ---
 [Ghiphy API](https://oscarfgutierrezo.github.io/GiphyAPI-Example/) | [URL](https://github.com/oscarfgutierrezo/GiphyAPI-Example)
 [ToDo App](https://oscarfgutierrezo.github.io/TodoApp-Example/) | [URL](https://github.com/oscarfgutierrezo/TodoApp-Example)
+[Hazard](https://oscarfgutierrezo.github.io/Hazard-Example/) | [URL](https://github.com/oscarfgutierrezo/Hazard-Example)
 
 
 
